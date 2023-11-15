@@ -20,4 +20,3 @@ class Test:
 
     def test_mute(self):
         pass
-
